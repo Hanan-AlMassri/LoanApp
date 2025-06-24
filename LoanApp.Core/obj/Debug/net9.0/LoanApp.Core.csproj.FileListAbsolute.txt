@@ -1,0 +1,23 @@
+C:\Users\homam\Desktop\LoanAppSolution\LoanApp.Core\bin\Debug\net9.0\LoanApp.Core.deps.json
+C:\Users\homam\Desktop\LoanAppSolution\LoanApp.Core\bin\Debug\net9.0\LoanApp.Core.dll
+C:\Users\homam\Desktop\LoanAppSolution\LoanApp.Core\bin\Debug\net9.0\LoanApp.Core.pdb
+C:\Users\homam\Desktop\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\homam\Desktop\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.AssemblyInfoInputs.cache
+C:\Users\homam\Desktop\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.AssemblyInfo.cs
+C:\Users\homam\Desktop\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\homam\Desktop\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.dll
+C:\Users\homam\Desktop\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\refint\LoanApp.Core.dll
+C:\Users\homam\Desktop\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.pdb
+C:\Users\homam\Desktop\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\ref\LoanApp.Core.dll
+C:\Users\MEDIA\Desktop\الوظيفة الثالثة\LoanAppSolution\LoanAppSolution\LoanApp.Core\bin\Debug\net9.0\LoanApp.Core.deps.json
+C:\Users\MEDIA\Desktop\الوظيفة الثالثة\LoanAppSolution\LoanAppSolution\LoanApp.Core\bin\Debug\net9.0\LoanApp.Core.dll
+C:\Users\MEDIA\Desktop\الوظيفة الثالثة\LoanAppSolution\LoanAppSolution\LoanApp.Core\bin\Debug\net9.0\LoanApp.Core.pdb
+C:\Users\MEDIA\Desktop\الوظيفة الثالثة\LoanAppSolution\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEDIA\Desktop\الوظيفة الثالثة\LoanAppSolution\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.AssemblyInfoInputs.cache
+C:\Users\MEDIA\Desktop\الوظيفة الثالثة\LoanAppSolution\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.AssemblyInfo.cs
+C:\Users\MEDIA\Desktop\الوظيفة الثالثة\LoanAppSolution\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\MEDIA\Desktop\الوظيفة الثالثة\LoanAppSolution\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.sourcelink.json
+C:\Users\MEDIA\Desktop\الوظيفة الثالثة\LoanAppSolution\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.dll
+C:\Users\MEDIA\Desktop\الوظيفة الثالثة\LoanAppSolution\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\refint\LoanApp.Core.dll
+C:\Users\MEDIA\Desktop\الوظيفة الثالثة\LoanAppSolution\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\LoanApp.Core.pdb
+C:\Users\MEDIA\Desktop\الوظيفة الثالثة\LoanAppSolution\LoanAppSolution\LoanApp.Core\obj\Debug\net9.0\ref\LoanApp.Core.dll
