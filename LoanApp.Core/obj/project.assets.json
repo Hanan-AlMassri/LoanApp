@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MEDIA\\Desktop\\الوظيفة الثالثة\\LoanApp\\LoanAppSolution\\LoanApp.Core\\LoanApp.Core.csproj",
+      "projectUniqueName": "C:\\Users\\MEDIA\\Desktop\\الوظيفة الثالثة\\LoanApp\\الوظيفة الرابعة\\LoanApp.Core\\LoanApp.Core.csproj",
       "projectName": "LoanApp.Core",
-      "projectPath": "C:\\Users\\MEDIA\\Desktop\\الوظيفة الثالثة\\LoanApp\\LoanAppSolution\\LoanApp.Core\\LoanApp.Core.csproj",
+      "projectPath": "C:\\Users\\MEDIA\\Desktop\\الوظيفة الثالثة\\LoanApp\\الوظيفة الرابعة\\LoanApp.Core\\LoanApp.Core.csproj",
       "packagesPath": "C:\\Users\\MEDIA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MEDIA\\Desktop\\الوظيفة الثالثة\\LoanApp\\LoanAppSolution\\LoanApp.Core\\obj\\",
+      "outputPath": "C:\\Users\\MEDIA\\Desktop\\الوظيفة الثالثة\\LoanApp\\الوظيفة الرابعة\\LoanApp.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MEDIA\\AppData\\Roaming\\NuGet\\NuGet.Config"
